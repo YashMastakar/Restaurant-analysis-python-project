@@ -140,10 +140,10 @@ https://pandas.pydata.org/docs/
 https://seaborn.pydata.org/
 https://matplotlib.org/stable/
 
-👤 Author
-Yash Mastakar
-Aspiring Data Analyst | Python | SQL | Power BI | Data-Driven Decision Making
+## 👤 Author
+### Yash Mastakar
+### Aspiring Data Analyst | Python | SQL | Power BI | Data-Driven Decision Making
 
-📫 Open to Data Analyst & Business Analytics opportunities
+#### 📫 Open to Data Analyst & Business Analytics opportunities
 
-⭐ If you find this project useful, feel free to star the repository!
+#### ⭐ If you find this project useful, feel free to star the repository!
