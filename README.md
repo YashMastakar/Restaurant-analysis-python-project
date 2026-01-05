@@ -129,7 +129,7 @@ Helping restaurant investors:
 ## 📂 Project Resources
 For a detailed review of the full report, have a look at the files below:
 
-* **[blr-resto-analysis-using-python.ipynb](./blr-resto-analysis-using-python.ipynb):** The complete Python code, including data cleaning, visualization, and statistical analysis.
+* **[blr-resto-analysis-using-python.ipynb](./blr_resto_analysis.ipynb):** The complete Python code, including data cleaning, visualization, and statistical analysis.
 * **[Bangalore_Resto_Success_Analysis.pdf](./BLR_Resto_Success_Analysis_Project.pdf):** The comprehensive project report exported from JupyterLab for a readable overview of all findings.
   
 📊 Real World Dataset used:
